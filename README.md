@@ -1,16 +1,33 @@
-## Hi there 👋
+## Olá!Me chamo Ana Paula :)
 
-<!--
-**AnaPaulaGyoto/anapaulagyoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
+Me chamo Ana Paula Vieira Diniz, tenho 20 anos e sou nasci em Brasília, Distrito Federal. Atualmente, estou estudando de forma autÔnoma. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube
 
-Here are some ideas to get you started:
+---
+### Linguagens e Programas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<br>
+<br>
+
+### Estatísticas
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=anapaulagyoto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulagyoto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
