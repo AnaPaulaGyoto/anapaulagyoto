@@ -13,7 +13,8 @@ Me chamo Ana Paula Vieira Diniz, tenho 20 anos e sou nasci em Brasília, Distrit
 </div>
 
 <br>
-<br>
+<br><img width="1799" height="866" alt="Screenshot 2025-11-20 at 13-51-28 Portfólio" src="https://github.com/user-attachments/assets/aa2460cd-e3c2-488f-8b57-89de9103f9c1" />
+
 
 ### Estatísticas
 <p>
@@ -31,3 +32,4 @@ Me chamo Ana Paula Vieira Diniz, tenho 20 anos e sou nasci em Brasília, Distrit
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulagyoto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
