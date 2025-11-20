@@ -1,7 +1,7 @@
 ## Olá!Me chamo Ana Paula :)
 
 ### Sobre mim
-Me chamo Ana Paula Vieira Diniz, tenho 20 anos e sou nasci em Brasília, Distrito Federal. Atualmente, estou estudando de forma autÔnoma. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube
+Me chamo Ana Paula Vieira Diniz, tenho 20 anos e sou nasci em Brasília, Distrito Federal. Atualmente, estou estudando de forma autônoma e trabalhando como freelancer de desenvolvimento de websites. Sou apaixonada por tecnologia e me empenho todos os dias para adquirir cada vez mais conhecimento!.
 
 ---
 ### Linguagens e Programas
